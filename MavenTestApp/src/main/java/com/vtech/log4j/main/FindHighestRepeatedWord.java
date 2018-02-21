@@ -18,6 +18,8 @@ public class FindHighestRepeatedWord {
 
 	public static void main(String[] args) {
 		
+		System.out.println("Helli Git!!");
+		
 		String s = "I love my india india is india india is greatest love india";
 		
 		System.out.println("String = "+s);
