@@ -1,0 +1,32 @@
+2018-02-17 17:44:27,253 +0530 [main] DEBUG (Log4jExample.java:23) - My Debug Log
+2018-02-17 17:44:27,269 +0530 [main] INFO  (Log4jExample.java:24) - My Info Log
+2018-02-17 17:44:27,269 +0530 [main] WARN  (Log4jExample.java:25) - My Warn Log
+2018-02-17 17:44:27,269 +0530 [main] ERROR (Log4jExample.java:26) - My Error Log
+2018-02-17 17:44:27,270 +0530 [main] FATAL (Log4jExample.java:27) - My Fatal Log
+2018-02-17 17:44:27,270 +0530 [main] DEBUG (MathUtils.java:15) - inputs are: 20 30
+2018-02-17 17:44:27,270 +0530 [main] DEBUG (MathUtils.java:15) - inputs are: 40 50
+2018-02-17 17:44:27,273 +0530 [main] DEBUG (MathUtils.java:15) - inputs are: 60 70
+2018-02-17 20:13:49,913 +0530 [main] DEBUG (Log4jExample.java:23) - My Debug Log
+2018-02-17 20:13:49,914 +0530 [main] INFO  (Log4jExample.java:24) - My Info Log
+2018-02-17 20:13:49,914 +0530 [main] WARN  (Log4jExample.java:25) - My Warn Log
+2018-02-17 20:13:49,914 +0530 [main] ERROR (Log4jExample.java:26) - My Error Log
+2018-02-17 20:13:49,914 +0530 [main] FATAL (Log4jExample.java:27) - My Fatal Log
+2018-02-17 20:13:49,914 +0530 [main] DEBUG (MathUtils.java:15) - inputs are: 20 30
+2018-02-17 20:13:49,914 +0530 [main] DEBUG (MathUtils.java:15) - inputs are: 40 50
+2018-02-17 20:13:49,929 +0530 [main] DEBUG (MathUtils.java:15) - inputs are: 60 70
+2018-02-17 20:47:56,877 +0530 [main] DEBUG (Log4jExample.java:23) - My Debug Log
+2018-02-17 20:47:56,893 +0530 [main] INFO  (Log4jExample.java:24) - My Info Log
+2018-02-17 20:47:56,893 +0530 [main] WARN  (Log4jExample.java:25) - My Warn Log
+2018-02-17 20:47:56,893 +0530 [main] ERROR (Log4jExample.java:26) - My Error Log
+2018-02-17 20:47:56,893 +0530 [main] FATAL (Log4jExample.java:27) - My Fatal Log
+2018-02-17 20:47:56,893 +0530 [main] DEBUG (MathUtils.java:15) - inputs are: 20 30
+2018-02-17 20:47:56,893 +0530 [main] DEBUG (MathUtils.java:15) - inputs are: 40 50
+2018-02-17 20:47:56,893 +0530 [main] DEBUG (MathUtils.java:15) - inputs are: 60 70
+2018-02-17 21:08:23,526 +0530 [main] DEBUG (Log4jExample.java:25) - My Debug Log
+2018-02-17 21:08:23,542 +0530 [main] INFO  (Log4jExample.java:26) - My Info Log
+2018-02-17 21:08:23,542 +0530 [main] WARN  (Log4jExample.java:27) - My Warn Log
+2018-02-17 21:08:23,542 +0530 [main] ERROR (Log4jExample.java:28) - My Error Log
+2018-02-17 21:08:23,542 +0530 [main] FATAL (Log4jExample.java:29) - My Fatal Log
+2018-02-17 21:08:23,542 +0530 [main] DEBUG (MathUtils.java:15) - inputs are: 20 30
+2018-02-17 21:08:23,542 +0530 [main] DEBUG (MathUtils.java:15) - inputs are: 40 50
+2018-02-17 21:08:23,542 +0530 [main] DEBUG (MathUtils.java:15) - inputs are: 60 70
